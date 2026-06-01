@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/banner.PNG" alt="Armin Panahi Portfolio Banner">
+</p>
+
 # Armin Panahi
 
 Personal portfolio website of **Armin Panahi**, a Frontend Developer and Software Engineer.
@@ -6,7 +10,7 @@ This website showcases my professional background, technical skills, projects, a
 
 ## 🌐 Live Website
 
-Coming Soon
+[Coming Soon](https://arminpanahi.ir)
 
 ## 🚀 Features
 
