@@ -1,23 +1,39 @@
 {
   "name": "Armin Panahi",
-  "short_name": "Armin",
-  "description": "آرمین پناهی | توسعه‌دهنده فرانت‌اند و مهندس نرم‌افزار",
+  "short_name": "AP",
+  "description": "وب سایت رسمی آرمین پناهی",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
   "orientation": "portrait-primary",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
   "lang": "fa",
   "icons": [
     {
       "src": "/assets/images/armin-panahi-logo.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
-      "src": "/assets/images/armin-panahi-logo.png",
+      "src": "//assets/images/armin-panahi-logo.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "رزومه",
+      "url": "/resume.html"
+    },
+    {
+      "name": "پروژه ها",
+      "url": "/projects.html"
+    },
+    {
+      "name": "مقالات",
+      "url": "/blog.html"
     }
   ]
 }
