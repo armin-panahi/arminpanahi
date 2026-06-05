@@ -10,13 +10,13 @@
   "lang": "fa",
   "icons": [
     {
-      "src": "/assets/images/armin-panahi-logo.png",
+      "src": "/assets/images/AP-effective-logo.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "//assets/images/armin-panahi-logo.png",
+      "src": "//assets/images/AP-effective-logo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
