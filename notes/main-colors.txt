@@ -1,0 +1,183 @@
+=========================================
+        WEBSITE COLOR PALETTE
+=========================================
+
+🎨 PRIMARY COLORS
+─────────────────────────────────────────
+
+Primary Accent
+#FFDB70
+HSL(45,100%,72%)
+
+Secondary Accent
+#C8A34D
+HSL(45,54%,58%)
+
+Golden Gradient End
+#FFB944
+HSL(35,100%,68%)
+
+Danger / Error
+#B84A4A
+HSL(0,43%,51%)
+
+
+=========================================
+
+🌑 BACKGROUND COLORS
+─────────────────────────────────────────
+
+Body Background
+#121212
+HSL(0,0%,7%)
+
+Card Background
+#1E1E1F
+HSL(240,2%,12%)
+
+Secondary Card
+#202022
+HSL(240,2%,13%)
+
+Dark Surface
+#2B2B2B
+HSL(0,0%,17%)
+
+Dark Border
+#383838
+HSL(0,0%,22%)
+
+
+=========================================
+
+📝 TEXT COLORS
+─────────────────────────────────────────
+
+Primary Text
+#FFFFFF
+
+Heading Text
+#FAFAFA
+
+Secondary Text
+#D6D6D6
+
+Muted Text
+rgba(214,214,214,0.7)
+
+
+=========================================
+
+✨ GLASS EFFECT COLORS
+─────────────────────────────────────────
+
+Sidebar
+rgba(30,30,31,0.72)
+
+Article
+rgba(30,30,31,0.65)
+
+Navbar
+rgba(30,30,31,0.55)
+
+Dark Glass
+rgba(30,30,30,0.75)
+
+
+=========================================
+
+🌟 GLOW COLORS
+─────────────────────────────────────────
+
+Primary Glow
+rgba(255,219,112,0.08)
+
+Secondary Glow
+rgba(255,219,112,0.05)
+
+Hover Glow
+rgba(255,219,112,0.15)
+
+Border Glow
+rgba(255,219,112,0.08)
+
+
+=========================================
+
+📐 BORDER COLORS
+─────────────────────────────────────────
+
+Border
+#383838
+
+Glass Border
+rgba(255,255,255,0.08)
+
+Article Border
+rgba(255,255,255,0.06)
+
+Light Reflection
+rgba(255,255,255,0.15)
+
+
+=========================================
+
+🌈 MAIN GRADIENTS
+─────────────────────────────────────────
+
+Text Gradient
+#FFDB70
+→
+#FFB944
+
+Background Gradient
+#202022
+→
+#1E1E1F
+
+Border Gradient
+#404040
+→
+Transparent
+
+
+=========================================
+
+⭐ DESIGN SYSTEM SUMMARY
+─────────────────────────────────────────
+
+Primary Color
+#FFDB70
+
+Secondary Color
+#C8A34D
+
+Background
+#121212
+
+Surface
+#1E1E1F
+
+Surface 2
+#202022
+
+Border
+#383838
+
+Primary Text
+#FFFFFF
+
+Secondary Text
+#D6D6D6
+
+Danger
+#B84A4A
+
+=========================================
+Design Style:
+Dark UI
+Glassmorphism
+Modern Portfolio
+Premium Gold
+Cyber Minimal
+=========================================
